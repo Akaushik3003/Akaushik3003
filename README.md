@@ -9,9 +9,13 @@ Passionate about building scalable web applications, solving DSA problems, and c
 </p>
 
 ---
----
 # 💫 About Me:
-🔭 Currently building Python Full Stack applications and improving my DSA skills through LeetCode.<br><br>🤝 Open to collaborating on Python, Django, Full Stack, and Open Source projects.<br><br>👐 Intertested in Backend Development, REST APIs, DevOps, and System Design.<br><br>🌱 Currently learning Django, REST APIs, System Design, and Backend Development.<br><br>💬 Ask me about Python, OOP, SQL, Git, LeetCode, and Web Development.<br><br>⚡ Fun fact: I enjoy building real-world applications and solving coding challenges every day.
+- 🔭 Currently building Python Full Stack applications and improving my DSA skills through LeetCode.
+- 🤝 Open to collaborating on Python, Django, Full Stack, and Open Source projects.
+- 👐 Interested in Backend Development, REST APIs, DevOps, and System Design.
+- 🌱 Currently learning Django, REST APIs, System Design, and Backend Development.
+- 💬 Ask me about Python, OOP, SQL, Git, LeetCode, and Web Development.
+- ⚡ Fun fact: I enjoy building real-world applications and solving coding challenges every day.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akaushik30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akaushik5008@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/AV1cTr41lJ/) 
